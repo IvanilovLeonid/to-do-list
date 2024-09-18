@@ -1,0 +1,19 @@
+BasedOnStyle: Google
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+
+AccessModifierOffset: -2
+
+AlignAfterOpenBracket: AlwaysBreak
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignEscapedNewlinesLeft: true
+
+AllowShortFunctionsOnASingleLine: None
+
+
+
+ColumnLimit: 120
+
+PointerBindsToType : false
